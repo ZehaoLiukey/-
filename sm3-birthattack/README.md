@@ -12,7 +12,7 @@ sm3的输出范围是256位，那么我们的攻击就是找到两个不同的x�
 def naivebirth(n)为生日函数，其中n为输入规模，单位为1个字（4位），根据实际情况，将穷举数量定为输入的位数减1，此时可达到较高的成功率<br>
 3、运行截图
 ------
-![Alt text]
+![image]https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/sm3-birthattack/photo.png<br>
 4、结果总结
 ------
 根据不同位数时间比较上，可看出电脑在20位以内运算较快，且位数越多攻击越慢，且成指数级增长，符合猜想。
