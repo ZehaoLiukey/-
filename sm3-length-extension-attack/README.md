@@ -8,5 +8,5 @@ sm3长度扩展攻击代码说明及运行结果
 首先随机生成一个消息，加密，生成一个附加消息，用加密消息的结果推算出这一次加密结束后8个向量的值，再以它们作为初始向量，去加密m’，得到另一个hash值，将三个值相加得到新hash值，若相等则成功。<br><br>
 3、代码截图
 ------
-![image](https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/sm3-birthattack/photo.png) <br><br>
+![image](https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/sm3-length-extension-attack/sm3le.png) <br><br>
 
