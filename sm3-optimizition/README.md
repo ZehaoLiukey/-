@@ -15,5 +15,5 @@ sm3优化代码说明及运行结果
 ![image](https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/sm3-optimizition/2.png) <br>
 4、结果总结
 ------
-经过循环展开优化之后，运行速度快了0.35s，效果明显
+经过循环展开优化之后，运行速度快了0.36s，效果明显
 
