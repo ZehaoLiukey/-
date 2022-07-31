@@ -19,9 +19,7 @@ Implement the above ECMH scheme<br>
 未完成的：<br>
 Try to Implement this scheme(below)<br>
 report on the application of this deduce technique in Ethereum with ECDSA<br>
-
 verify the above pitfalls with proof-of-concept cod<br>
-
 Implement a PGP scheme with SM2<br>
 implement sm2 2P sign with real network communication<br>
 implement sm2 2P decrypt with real network communication<br>
