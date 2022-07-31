@@ -7,8 +7,8 @@ ECMH签名实现代码说明及运行结果
 2、代码说明
 ----------
 ECMH函数为签名函数，需要用到sm2，sm3和求二次剩余的函数
-。
+。<br>
 3、运行截图
 ------
-![image](https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/sm2-rfc6979/3.png)<br>
+![image]([https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/sm2-rfc6979/3.png](https://github.com/ZehaoLiukey/Liuzehao-experiment/blob/main/ECMH-scheme/1.png))<br>
 
